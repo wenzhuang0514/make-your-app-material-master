@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/make-your-app-material.iml" filepath="$PROJECT_DIR$/make-your-app-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/make-your-app-material-master.iml" filepath="$PROJECT_DIR$/.idea/modules/make-your-app-material-master.iml" group="make-your-app-material-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XYZReader/make-your-app-material-master-XYZReader.iml" filepath="$PROJECT_DIR$/.idea/modules/XYZReader/make-your-app-material-master-XYZReader.iml" group="make-your-app-material-master/XYZReader" />
+    </modules>
+  </component>
+</project>
